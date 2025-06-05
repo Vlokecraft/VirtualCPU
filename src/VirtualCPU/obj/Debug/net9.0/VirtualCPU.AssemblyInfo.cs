@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualCPU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+058fbc1c87cc536fa0cdf74b34d2a24efdf396b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77949257dcccfd898c97784cd59bd88401edcce8")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualCPU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualCPU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
